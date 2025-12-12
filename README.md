@@ -34,10 +34,10 @@ I built a full-stack data app that processes transaction logs to provide real-ti
 ## 📸 Screenshots
 
 ### 1. Executive Dashboard (Clustering Visualization)
-![Dashboard Overview](https://via.placeholder.com/800x400?text=Upload+Your+Dashboard+Screenshot+Here)
+![Dashboard Overview](assets/Customer Insights.png)
 
 ### 2. Customer Insights & AI Strategy
-![Customer Profile](https://via.placeholder.com/800x400?text=Upload+Your+Customer+Profile+Screenshot+Here)
+![Customer Profile](assets/Executive Dashboard.png)
 
 ---
 
