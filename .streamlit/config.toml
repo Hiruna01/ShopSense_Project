@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#10B981"  # Modern Emerald Green
+backgroundColor = "#F3F4F6" # Light Grey background (like the image)
+secondaryBackgroundColor = "#FFFFFF" # White Sidebar
+textColor = "#1F2937" # Dark Grey text for readability
+font = "sans serif"
